@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    font-family: 'Raleway', sans-serif;
+    background-color: #FFF5F1;
+}
+
+.navbar-nav{
+    margin-left: 80%;
+}
+
+.title{
+    font-weight: 700;
+}
+
+.contact-image{
+    margin: 0rem 0rem -3rem -2rem;
+    padding-left: 10rem;
+}
+
+
+.col-lg-6{
+padding: 0px 0px !important;
+}
+
+.navbar-brand{
+    font-weight: 700;
+}
+.nav-link{
+font-weight: 700;
+margin: 0px .75rem 0rem .75rem;
+}
+
+.contact-links{
+display: block;
+font-size: 3rem;
+color: black;
+font-weight: 800;
+padding: .7rem;
+}
+
+.contact-links:hover{
+    text-decoration: none;
+    color: #5e5e5e;
+}
+
+.contact-div{
+    padding-left: 6rem;
+    padding-right: 6rem;
+}
+
+
+.title-text{
+    padding: 11rem 3rem 8rem 4rem;
+}
+
+.insta-links{
+    color: #5e5e5e;
+}
+
+.insta-links:hover{
+    color: #e4aeae;
+    text-decoration: none;
+}
+
+.art{
+    width: 1080px;
+    height: 720px;
+}
+.title-text h1{
+    font-size: 3.5rem;
+}
+
+.about-text{
+    padding-top: 3rem;
+    padding-left: 2rem;
+    margin-right: 3rem;
+}
+
+.progress-container{
+    margin: 3rem;
+}
+
+.progress-bar-custom {
+      background-color: #e4aeae !important;
+      
+}
+
+
+.follow-about{
+    font-weight: 500;
+}
+.first-about{
+    font-weight: 800;
+}
+
+.nav-link:hover{
+    color:  #5e5e5e!important;
+}
+
+
+
+
+.row{
+    overflow: hidden !important;
+}
+
+.wave{
+    margin-bottom: 20px;
+    width: 60px;
+    height: 60px;
+}
+
+.skill-icon{
+width: 30px;
+margin-bottom: 5px;
+margin-right: 5px;
+height: 30px;
+}
+
+.title-img{
+    margin-top: 6rem;
+}
+
+.contact-icon{
+    width: 50px;
+    height: 50px;
+    margin-bottom: 7px;
+}
